@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasalbattiri&label=Profile%20views&color=0e75b6&style=flat" alt="anasalbattiri" /> </p>
 
-- 🔭 I’m currently working on **Recorded Courses App**
+- 🔭 I’m currently working on **SB Route Apps**
 
-- 🌱 I’m currently learning **Angular & ASP.NET**
+- 🌱 I’m currently learning **Kotlin & Swift**
 
 - 💬 Ask me about **Flutter**
 
