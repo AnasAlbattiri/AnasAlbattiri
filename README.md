@@ -146,12 +146,6 @@ focus: Flutter | Mobile Architecture | Team Leadership | Product Building
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnasAlbattiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlbattiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br><br>
-
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=AnasAlbattiri&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
 
 </div>
