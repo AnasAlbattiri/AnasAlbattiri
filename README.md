@@ -5,7 +5,7 @@
 **Founder & CEO [@01Planet](https://github.com/01Planet) · Senior Flutter Developer [@SmartSteps](https://github.com) · Mobile Dev Instructor [@Udemy](https://www.udemy.com/course/flutter-dart-development-course-zero-to-dragon/)**
 
 Software Engineer with 5+ years building 40+ cross-platform apps from concept to store.
-I lead teams, ship products, and teach 1,000+ developers how to do the same.
+I lead teams, ship products, and teach 1,160+ developers how to do the same.
 
 [![Portfolio](https://img.shields.io/badge/anasqt.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.anasqt.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-qattowsh-ba0bb1241/)
