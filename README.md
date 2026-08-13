@@ -28,7 +28,6 @@ location: Amman, Jordan
 portfolio: https://www.anasqt.me
 github: https://github.com/AnasAlbattiri
 current_roles:
-  - Founder & CEO @ 01Planet
   - Senior Flutter Developer @ SmartSteps
   - Mobile Development Instructor @ Udemy
 focus: Flutter | Mobile Architecture | Team Leadership | Product Building
