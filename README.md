@@ -42,7 +42,7 @@ focus: Flutter | Mobile Architecture | Team Leadership | Product Building
 | 🚀 40+ Apps Shipped | 🏢 16+ Production Projects | 🎓 1,000+ Students Mentored |
 |:---:|:---:|:---:|
 | **68 Interviews Conducted** | **38+ GitHub Repos** | **55 Specialized Courses** |
-| **55-Hour Flutter Course** | **5+ Years Experience** | **Top 30 National Finalist** |
+| **45-Hour Flutter Course** | **5+ Years Experience** | **Top 30 National Finalist** |
 
 </div>
 
@@ -107,20 +107,6 @@ focus: Flutter | Mobile Architecture | Team Leadership | Product Building
 | **Hala TV** | Hospitality industry app simplifying kitchen maintenance to reduce downtime | [App Store](https://apps.apple.com) |
 | **Repaira** | Maintenance management platform enhancing operational efficiency in hospitality | [Play Store](https://play.google.com) |
 | **Mnbr** | Crown Prince Competition finalist app — innovative Flutter application (Top 30 nationally) | — |
-
----
-
-### Career Journey
-
-```
-2025 – Present   ████████████████████████████  Founder & CEO @ 01Planet
-2024 – Present   ████████████████████████████  Senior Flutter Developer @ SmartSteps (Smart Masarak)
-2025 (9 months)  ██████████████████            Freelance Flutter Developer @ NadSoft
-2024 (10 months) ██████████████████            Mid-Level Flutter Developer @ BEST Technology
-2023 (10 months) ██████████████████            Flutter Developer @ Siq Technology
-2022 – 2023      ████████████████████          Junior Flutter Developer @ Viavii Corporation
-      Ongoing    ████████████████████████████  Mobile Dev Instructor @ Udemy (1,000+ students)
-```
 
 ---
 
