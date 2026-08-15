@@ -9,10 +9,10 @@ I lead teams, ship products, and teach 1,160+ developers how to do the same.
 
 [![Portfolio](https://img.shields.io/badge/anasqt.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.anasqt.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-qattowsh-ba0bb1241/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anasalbattiri003/videos)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnasQattowsh-tech)
 [![Udemy](https://img.shields.io/badge/Udemy_Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/flutter-dart-development-course-zero-to-dragon/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anxsii1/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anas.albattiri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anas_qattowsh.tech/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anas.qattowsh)
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaswalbattiri@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=AnasAlbattiri&style=for-the-badge&color=0e75b6)](https://github.com/AnasAlbattiri)
 
