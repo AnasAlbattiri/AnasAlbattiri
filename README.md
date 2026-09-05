@@ -41,7 +41,7 @@ focus: Flutter | Mobile Architecture | Team Leadership | Product Building
 | 🚀 40+ Apps Shipped | 🏢 16+ Production Projects | 🎓 1,000+ Students Mentored |
 |:---:|:---:|:---:|
 | **68 Interviews Conducted** | **38+ GitHub Repos** | **55 Specialized Courses** |
-| **45-Hour Flutter Course** | **5+ Years Experience** | **Top 30 National Finalist** |
+| **45-Hour Flutter Course** | **5 Years Experience** | **Top 30 National Finalist** |
 
 </div>
 
